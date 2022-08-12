@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "strict": true,
+    "sourceMap": false,
+    "baseUrl": "./",
+  },
+  "include": [
+    "app"
+  ],
+  "exclude": [
+    "node_modules",
+  ]
+}
